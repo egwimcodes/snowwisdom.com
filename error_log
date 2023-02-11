@@ -1,0 +1,17 @@
+[06-Dec-2022 18:34:46 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[06-Dec-2022 20:22:24 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[07-Dec-2022 02:39:05 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[07-Dec-2022 08:59:11 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[07-Dec-2022 21:46:53 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[08-Dec-2022 04:13:42 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[08-Dec-2022 16:58:57 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[08-Dec-2022 23:15:54 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[09-Dec-2022 02:11:43 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[09-Dec-2022 05:36:24 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[09-Dec-2022 12:06:43 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[09-Dec-2022 18:23:13 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[10-Dec-2022 00:43:09 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[10-Dec-2022 07:02:43 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[10-Dec-2022 13:23:53 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[10-Dec-2022 19:59:26 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
+[10-Dec-2022 20:29:57 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/ki905032/snowwisdom.com/process.php on line 41
