@@ -123,6 +123,9 @@ let view_Demoii = document.getElementById('view_Demo2');
 let view_Demoiii = document.getElementById('view_Demo3');
 let view_Demoiv = document.getElementById('view_Demo4');
 let view_Demov = document.getElementById('view_Demo5');
+let view_Demovi = document.getElementById('view_Demo6');
+let view_Demovii = document.getElementById('view_Demo7');
+let view_Demoviii = document.getElementById('view_Demo8');
 let mainDis = document.getElementById('mainDis');
 let x_display = document.getElementById('x_display');
 let main_portfolio__img = document.querySelectorAll('.main_portfolio__img');
@@ -137,15 +140,27 @@ view_Demoii.onclick = function(){
 }
 view_Demoiii.onclick = function(){
     mainDis.style.visibility = 'visible';
-    document.getElementById('view_IMG').src = 'assets/img/JS.jpeg';
+    document.getElementById('view_IMG').src = 'assets/img/RWD.jpeg';
 }
 view_Demoiv.onclick = function(){
     mainDis.style.visibility = 'visible';
-    document.getElementById('view_IMG').src = 'assets/img/PHP.jpeg';
+    document.getElementById('view_IMG').src = 'assets/img/JS.jpeg';
 }
 view_Demov.onclick = function(){
     mainDis.style.visibility = 'visible';
-    document.getElementById('view_IMG').src = 'assets/img/RWD.jpeg';
+    document.getElementById('view_IMG').src = 'assets/img/PHP.jpeg';
+}
+view_Demovi.onclick = function(){
+    mainDis.style.visibility = 'visible';
+    document.getElementById('view_IMG').src = 'assets/img/PYTHON CORE.jpeg';
+}
+view_Demovii.onclick = function(){
+    mainDis.style.visibility = 'visible';
+    document.getElementById('view_IMG').src = 'assets/img/CSHARP.jpeg';
+}
+view_Demoviii.onclick = function(){
+    mainDis.style.visibility = 'visible';
+    document.getElementById('view_IMG').src = 'assets/img/PYTHON FOR BEGINNERS.jpeg';
 }
 x_display.onclick = function(){
     mainDis.style.visibility = 'hidden';
